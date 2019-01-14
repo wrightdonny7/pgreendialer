@@ -1,0 +1,17 @@
+{
+    "name": "sip2pstn-simpledial",
+    "description": "Provides a Flask-based webserver that returns TwiML so your SIP endpoint can make calls.",
+    "keywords": [
+        "twilio",
+        "flask",
+        "python",
+        "web",
+        "voice",
+        "TwiML"
+    ],
+    "website": "http://www.twilio.com",
+    "repository": "https://github.com/timbeyers/sip2pstn-simpledial.git",
+    "logo": "https://www.twilio.com/packages/company/img/logos_downloadable_round.png",
+
+    "success_url": "/"
+}
